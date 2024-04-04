@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="heading_2">
+    <title>Heading 2</title>
+    <shortdesc>This is a sample paragraph.</shortdesc>
+    <conbody>
+        <p>
+            <ol id="ol_skx_gk5_t1c">
+                <li>This is step 1.</li>
+                <li>This is step 2.</li>
+                <li>This is step 3.</li>
+            </ol>
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>PQR User Manual</title>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>PQR Keys</navtitle>
+        </topicmeta>
+        <keydef keys="product1_name">
+            <topicmeta>
+                <keywords>
+                    <keyword>PQR</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <keydef keys="product_version">
+            <topicmeta>
+                <keywords>
+                    <keyword>1.0.0</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <keydef keys="product2_name">
+            <topicmeta>
+                <keywords>
+                    <keyword>XYZ</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <keydef keys="product1_download" href="https://google.com/">
+            <topicmeta>
+                <keywords>
+                    <keyword>Click here to download PQR.</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+    </topicgroup>
+</map>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="typographic_domain_elements">
+    <title>Typographic Domain Elements</title>
+    <shortdesc>The typographic domain elements each have a specific styling purpose.</shortdesc>
+    <prolog>
+        <author type="creator">Shri</author>
+        <critdates>
+            <created date="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>
+            <dl id="dl_a2d_4yk_x1c">
+                <dlentry>
+                    <dt>b</dt>
+                    <dd>bold (strong)</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_nd2_pyk_x1c">
+                <dlentry>
+                    <dt>i</dt>
+                    <dd>italic (emphasis)</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_igw_pyk_x1c">
+                <dlentry>
+                    <dt>u</dt>
+                    <dd>underlined</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_r1s_qyk_x1c">
+                <dlentry>
+                    <dt>tt</dt>
+                    <dd>teletype (typewriter)</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_qtl_ryk_x1c">
+                <dlentry>
+                    <dt>sup</dt>
+                    <dd>superscript</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_jt2_syk_x1c">
+                <dlentry>
+                    <dt>sub</dt>
+                    <dd>subscript</dd>
+                </dlentry>
+            </dl>
+        </p>
+    </conbody>
+</concept>

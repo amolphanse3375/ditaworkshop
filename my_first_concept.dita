@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="my_first_concept">
+    <title>My First Concept</title>
+    <shortdesc>This is a short paragraph. stating the type of fruits I like.</shortdesc>
+    <conbody>
+        <p>This is my <b>first</b> paragraph.</p>
+        <p>The following is a list of fruits that I like:</p>
+        <ol id="ol_ns2_yk4_r1c">
+            <li>Apple<ul id="ul_gt4_2l4_r1c">
+                    <li>Green apple</li>
+                    <li>Custard apple</li>
+                    <li>Kashmir</li>
+                    <li>Himachal</li>
+                </ul></li>
+            <li>Mango</li>
+            <li>Banana</li>
+            <li>Oranges</li>
+            <li>Cranberry</li>
+        </ol>
+    </conbody>
+</concept>

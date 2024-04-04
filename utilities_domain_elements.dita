@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="utilities_domain_elements">
+    <title>Utilities Domain Elements</title>
+    <shortdesc>The elements in the utilities domain each have a specific purpose in defining image
+        map properties.</shortdesc>
+    <prolog>
+        <author type="creator">Shri</author>
+        <critdates>
+            <created date="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>
+            <dl id="dl_imr_nqk_x1c">
+                <dlentry>
+                    <dt>imagemap</dt>
+                    <dd>client-side image map</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_zql_pqk_x1c">
+                <dlentry>
+                    <dt>area</dt>
+                    <dd>hotspot area within an image map</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_jbm_qqk_x1c">
+                <dlentry>
+                    <dt>coords</dt>
+                    <dd>co-ordinates of a hotspot area within an image map</dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_hwy_rqk_x1c">
+                <dlentry>
+                    <dt>shape</dt>
+                    <dd>shape of a hotspot area within an image map</dd>
+                </dlentry>
+            </dl>
+        </p>
+    </conbody>
+</concept>

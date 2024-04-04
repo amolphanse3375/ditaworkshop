@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>PQR User Manual</title>
+    <topicref href="introduction.dita"/>
+    <mapref href="PQR%20Keys.ditamap" processing-role="resource-only" toc="no"/>
+</map>

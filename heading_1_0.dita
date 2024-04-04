@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="heading_1_0">
+    <title>Heading 1</title>
+    <shortdesc>This is a sample paragraph.</shortdesc>
+    <conbody>
+        <p>
+            <ol id="ol_ey1_dk5_t1c">
+                <li>This is step 1.</li>
+                <li>This is step 2.</li>
+                <li>This is step 3.</li>
+            </ol>
+        </p>
+        <fig id="fig_xk2_3xg_v1c">
+            <title>Mystic Number - 9</title>
+            <p/>
+            <image
+                href="../Users/Shri/OneDrive/Pictures/M2%20Advanced%20Share%20Market%20Course/Mystic%20Number%209.png"
+                id="image_twt_kxg_v1c"/>
+        </fig>
+    </conbody>
+</concept>

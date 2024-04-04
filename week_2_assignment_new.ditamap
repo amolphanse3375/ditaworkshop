@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Week 2 Assignment NEW</title>
+    <topicref href="heading_1_0.dita">
+        <topicref href="new_task_1.dita"/>
+        <topicref href="heading_2.dita"/>
+    </topicref>
+    <topicref href="new_heading_1.dita"/>
+</map>

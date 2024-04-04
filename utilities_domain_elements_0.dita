@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="utilities_domain_elements_0">
+    <title>Utilities domain elements</title>
+    <shortdesc>The elements in the utilities domain each have a specific purpose in defining image
+        map properties.</shortdesc>
+    <prolog>
+        <author type="contributor">Shri</author>
+        <critdates>
+            <!--Shri-->
+            <revised modified="2024-04-04"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>The most commonly used Programming domain elements include:<dl id="dl_sxn_yk5_y1c">
+                <dlentry>
+                    <dt>Imagepap</dt>
+                    <dd>client-side image map</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Area</dt>
+                    <dd>hotspot area within an image map</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Coords</dt>
+                    <dd>co-ordinates of a hotspot area within an image map</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Shape</dt>
+                    <dd>shape of a hotspot area within an image map</dd>
+                </dlentry>
+            </dl></p>
+        <imagemap id="imagemap_rjc_z2v_y1c">
+            <image href="Picture1.png" id="image_sjc_z2v_y1c"/>
+            <area>
+                <shape>rect</shape>
+                <coords>227, 64, 495, 327</coords>
+                <xref href="introduction_to_dita.dita" format="dita">Click here to know more about
+                    DITA.</xref>
+            </area>
+            <area>
+                <shape>rect</shape>
+                <coords>512, 56, 775, 322</coords>
+                <xref href="topic_elements.dita" format="dita">Click here to know more about the
+                    topic elements.</xref>
+            </area>
+            <area>
+                <shape>rect</shape>
+                <coords>225, 346, 495, 609</coords>
+                <xref
+                    href="https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/ditamap-elements.html"
+                    format="html" scope="external">Click here to know more about the map
+                    elements.</xref>
+            </area>
+            <area>
+                <shape>rect</shape>
+                <coords>507, 340, 773, 609</coords>
+                <xref href="prolog_elements.dita" format="dita">Click here to know more about the
+                    prolog elements.</xref>
+            </area>
+        </imagemap>
+    </conbody>
+</concept>

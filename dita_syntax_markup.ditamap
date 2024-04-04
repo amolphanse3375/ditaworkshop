@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>dita_syntax_markup</title>
+    <topicmeta>
+        <author type="creator">Shri</author>
+        <critdates>
+            <created date="2024-04-04"/>
+            <!--Shri-->
+            <revised modified="2024-04-04"/>
+        </critdates>
+    </topicmeta>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>Keys</navtitle>
+        </topicmeta>
+        <keydef keys="name">
+            <topicmeta>
+                <keywords>
+                    <keyword>DITA</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+    </topicgroup>
+    <topicref href="introduction_to_dita.dita"/>
+    <topicref href="organization_of_dita_elements.dita">
+        <topicref href="topic_elements.dita"/>
+        <topicref href="map_elements.dita"/>
+        <topicref href="body_elements.dita"/>
+        <topicref href="prolog_elements.dita"/>
+        <topicref href="domain_elements.dita">
+            <topicref href="programming_domain_elements.dita"/>
+            <topicref href="user_interface_domain_elements_0.dita"/>
+            <topicref href="software_domain_elements_0.dita"/>
+            <topicref href="utilities_domain_elements_0.dita"/>
+            <topicref href="metadata_domain_elements.dita"/>
+            <topicref href="typographic_domain_elements_0.dita"/>
+        </topicref>
+    </topicref>
+    <reltable>
+        <title>Related Information</title>
+        <relheader>
+            <relcolspec type="concept"/>
+            <relcolspec type="concept"/>
+            <relcolspec type="concept"/>
+            <relcolspec type="concept"/>
+            <relcolspec type="concept"/>
+            <relcolspec type="concept"/>
+            <relcolspec type="concept"/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="introduction_to_dita.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="organization_of_dita_elements.dita"/>
+            </relcell>
+            <relcell/>
+            <relcell/>
+            <relcell/>
+            <relcell/>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell>
+                <topicref href="organization_of_dita_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topic_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="map_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="body_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="prolog_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="domain_elements.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="typographic_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="programming_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="user_interface_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="software_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="utilities_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="metadata_domain_elements.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="programming_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="software_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="metadata_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="typographic_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="user_interface_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="utilities_domain_elements_0.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="user_interface_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="software_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="programming_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="utilities_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="metadata_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="typographic_domain_elements_0.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="software_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="programming_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="user_interface_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="utilities_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="metadata_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="typographic_domain_elements_0.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="utilities_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="programming_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="user_interface_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="software_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="metadata_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="typographic_domain_elements_0.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="metadata_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="programming_domain_elements.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="user_interface_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="software_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="utilities_domain_elements_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="typographic_domain_elements_0.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+    </reltable>
+</map>

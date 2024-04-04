@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="parts_list">
+    <title>Parts List</title>
+    <shortdesc>A description of the individual parts and part numbers comprising the <ph
+            keyref="computer_name"/>
+        <ph keyref="peripheral_name"/> .</shortdesc>
+    <prolog>
+        <author type="contributor">Shri</author>
+        <critdates>
+            <!--Shri-->
+            <revised modified="2024-04-02"/>
+            <!--Shri-->
+            <revised modified="2024-04-03"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <table frame="all" rowsep="1" id="table_d4x_kxk_v1c">
+            <title><ph keyref="peripheral_name"/> with Numbers</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1.09*"/>
+                <thead>
+                    <row>
+                        <entry><ph keyref="peripheral_name"/></entry>
+                        <entry>#</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Door, Mini-Disk</entry>
+                        <entry id="entry_i5r_bcl_v1c">1400212</entry>
+                    </row>
+                    <row>
+                        <entry>Door, Line Printer</entry>
+                        <entry conref="#parts_list/entry_i5r_bcl_v1c"/>
+                    </row>
+                    <row>
+                        <entry>Door, Screen Printer</entry>
+                        <entry id="entry_hvq_ccl_v1c">1400216</entry>
+                    </row>
+                    <row>
+                        <entry>Door, Future Expansion Board</entry>
+                        <entry conref="#parts_list/entry_hvq_ccl_v1c"/>
+                    </row>
+                    <row>
+                        <entry>Hood, Mini-Disk</entry>
+                        <entry id="entry_oj1_dcl_v1c">1400213</entry>
+                    </row>
+                    <row>
+                        <entry>Hood, Line Printer</entry>
+                        <entry conref="#parts_list/entry_oj1_dcl_v1c"/>
+                    </row>
+                    <row>
+                        <entry>Hood, Screen Printer</entry>
+                        <entry id="entry_sgx_hdl_v1c">1400218</entry>
+                    </row>
+                    <row>
+                        <entry>Hood, Future Expansion Board</entry>
+                        <entry conref="#parts_list/entry_sgx_hdl_v1c"/>
+                    </row>
+                    <row>
+                        <entry>Hood, <ph keyref="computer_name"/> Microcomputer System</entry>
+                        <entry id="entry_yqc_rj2_y1c">1400214</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <table frame="all" rowsep="1" id="table_op4_1yk_v1c">
+            <title><ph keyref="computer_name"/> Microcomputer System with Numbers</title>
+            <tgroup cols="2" align="left">
+                <colspec colname="c1" colnum="1"/>
+                <colspec colname="c2" colnum="2"/>
+                <thead>
+                    <row>
+                        <entry><ph keyref="computer_name"/> MICROCOMPUTER SYSTEM</entry>
+                        <entry><b>#</b></entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Door</entry>
+                        <entry id="entry_a2y_gmm_y1c">1400083</entry>
+                    </row>
+                    <row>
+                        <entry>Hood</entry>
+                        <entry id="entry_ifh_hmm_y1c">1400217</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

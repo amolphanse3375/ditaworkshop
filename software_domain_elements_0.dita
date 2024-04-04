@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="software_domain_elements_0">
+    <title>Software domain elements</title>
+    <shortdesc>The elements in the software domain each have a specific semantic
+        purpose.</shortdesc>
+    <prolog>
+        <author type="creator">Shri</author>
+        <critdates>
+            <created date="2024-04-04"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>
+            <dl id="dl_dj3_rkt_v1c">
+                <dlentry>
+                    <dt>msgph</dt>
+                    <dd>message phrase <p>A server log entry of <msgph>I:O</msgph> is equivalent to
+                            the text message, <msgph>Information : successful</msgph>.</p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_zfl_tkt_v1c">
+                <dlentry>
+                    <dt>msgblock</dt>
+                    <dd>message block <p>The following are the server log entry codes:
+                            <msgblock id="msgblock_h3d_qlt_v1c">I:O
+I:1
+P:0
+P:1</msgblock></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_nxv_tkt_v1c">
+                <dlentry>
+                    <dt>msgnum</dt>
+                    <dd>message number <p>A server log entry of <msgnum>I:O</msgnum> is equivalent
+                            to the text message, <msgph>Information : successful</msgph>.</p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_d1k_5kt_v1c">
+                <dlentry>
+                    <dt>cmdname</dt>
+                    <dd>command name <p>Use the <cmdname>dir</cmdname> command to list the files and
+                            folders in the selected directory. </p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>varname</dt>
+                    <dd>variable (to be provided by user) name <p>Use the
+                                <cmdname>dir</cmdname><varname>/p</varname> to pause at the end of
+                            each page. You need to press a key to see the rest of the
+                            information.</p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_ahv_vkt_v1c">
+                <dlentry>
+                    <dt>filepath</dt>
+                    <dd>file name or path, or URI <p>The server log is saved in the
+                                <filepath>log.txt</filepath> file.</p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_fvl_wkt_v1c">
+                <dlentry>
+                    <dt>userinput</dt>
+                    <dd>user input <p>After you type <userinput>cd..</userinput> enter
+                                <cmdname>dir</cmdname> at the end of the prompt.</p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_yh3_tmt_v1c">
+                <dlentry>
+                    <dt>systemoutput</dt>
+                    <dd>system output The following files and folders are listed on the
+                                console.<p><systemoutput> Directory of C:\Users 14-07-2023 07:28
+                                &lt;DIR> . 14-07-2023 07:28 &lt;DIR> .. 11-09-2022 19:21 &lt;DIR>
+                                Public 16-03-2024 12:53 &lt;DIR> Shri 0 File(s) 0 bytes 4 Dir(s)
+                                169,700,540,416 bytes free</systemoutput></p></dd>
+                </dlentry>
+            </dl>
+        </p>
+    </conbody>
+</concept>

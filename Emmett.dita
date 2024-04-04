@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_e4q_f3m_v1c">
+    <title></title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <section id="section_djv_g3m_v1c">
+                <title>Description</title>
+                <p/>
+            </section>
+            <section id="section_ejv_g3m_v1c">
+                <title>Usage</title>
+                <codeblock id="codeblock_fjv_g3m_v1c"/>
+                <note id="note_gjv_g3m_v1c">
+                    <ul id="ul_hjv_g3m_v1c">
+                        <li/>
+                        <li/>
+                    </ul>
+                </note>
+            </section>
+            <section id="section_ijv_g3m_v1c">
+                <title>Positional Arguments</title>
+                <dl id="dl_jjv_g3m_v1c">
+                    <dlentry>
+                        <dt/>
+                        <dd/>
+                    </dlentry>
+                    <dlentry>
+                        <dt/>
+                        <dd/>
+                    </dlentry>
+                    <dlentry>
+                        <dt/>
+                        <dd/>
+                    </dlentry>
+                </dl>
+            </section>
+            <section id="section_kjv_g3m_v1c">
+                <title>Options</title>
+                <dl id="dl_ljv_g3m_v1c">
+                    <dlentry>
+                        <dt/>
+                        <dd/>
+                    </dlentry>
+                    <dlentry>
+                        <dt/>
+                        <dd/>
+                    </dlentry>
+                    <dlentry>
+                        <dt/>
+                        <dd/>
+                    </dlentry>
+                </dl>
+            </section>
+            <section id="section_mjv_g3m_v1c">
+                <title>Examples</title>
+                <p>The folllowing example when executed will </p>
+                <codeblock id="codeblock_njv_g3m_v1c"/>
+            </section>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="map_elements">
+    <title>Map elements</title>
+    <shortdesc>The map elements are the elements used in ditamaps and bookmaps.</shortdesc>
+    <prolog>
+        <author type="creator">Shri</author>
+        <critdates>
+            <created date="2024-04-04"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <section id="section_g3k_xpt_y1c">
+            <p>The map elements are a small set of elements, some of which have been specialised
+                into other elements for use in bookmaps.</p>
+            <p>The map elements include:<ul id="ul_mng_zpt_y1c">
+                    <li>map</li>
+                    <li>topicref</li>
+                    <li>topicmeta</li>
+                    <li>topicgroup</li>
+                    <li>topichead</li>
+                    <li>reltable</li>
+                </ul></p>
+        </section>
+    </conbody>
+</concept>

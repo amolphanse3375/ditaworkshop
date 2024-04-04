@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="programming_domain_elements">
+    <title>Programming domain elements</title>
+    <shortdesc>The elements in the programming domain each have a specific semantic
+        purpose.</shortdesc>
+    <prolog>
+        <author type="creator">Shri</author>
+        <critdates>
+            <created date="2024-04-04"/>
+            <!--Shri-->
+            <revised modified="2024-04-04"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <section id="section_o1w_srt_y1c">
+            <p>The most commonly used Programming domain elements include:<dl id="dl_grt_wrt_y1c">
+                    <dlentry>
+                        <dt>Apiname</dt>
+                        <dd>api name</dd>
+                        <dd>The <apiname>GET</apiname> and <apiname>PATCH</apiname> are the most
+                            common types of API names.</dd>
+                    </dlentry>
+                </dl></p>
+        </section>
+        <section>
+            <dl id="dl_a2k_kst_y1c">
+                <dlentry>
+                    <dt>Codeblock</dt>
+                    <dd>code block</dd>
+                    <dd>The following is an example of a code block:<p>
+                            <codeblock id="codeblock_lkq_tst_y1c" outputclass="language-cmd">cd [/d] [&lt;drive>:][&lt;path>]
+cd [..]
+chdir [/d] [&lt;drive>:][&lt;path>]
+chdir [..]</codeblock>
+                        </p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Codeph</dt>
+                    <dd>code phrase<p>The parameter <codeph>cd:C</codeph> is used to determine the
+                            components of a C drive.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Option</dt>
+                    <dd>one of a set of options<p>The option <option>maybe</option> is an example of
+                            an option functional type.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Parmname</dt>
+                    <dd>parameter or argument<p>In the function <codeph>def f(x)</codeph>, the term
+                                <parmname>x</parmname> is a parameter.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Parml</dt>
+                    <dd>A parameter list contains all the parameters used in the programming
+                            domain.<parml id="parml_i4b_tr5_y1c">
+                            <plentry>
+                                <pt>addend1</pt>
+                                <pd>Adds the values to the first parameter.</pd>
+                            </plentry>
+                            <plentry>
+                                <pt>addend2</pt>
+                                <pd>Adds the values to the second parameter.</pd>
+                            </plentry>
+                            <plentry>
+                                <pt>sumvalue</pt>
+                                <pd>Creates a sum of the values for first and second
+                                    parameters.</pd>
+                            </plentry>
+                        </parml></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Param</dt>
+                    <dd>parameter list entry (within parml)<p>The term <b>addend1</b> is introduced
+                            as a parameter title in a plentry.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Pt</dt>
+                    <dd>parameter term (within plentry)<p><b>Sumvalue</b> is a parameter term used
+                            in programming numbers.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Pd</dt>
+                    <dd>parameter definition (within plentry)<p>The parameter definition involves a
+                            description of the parameter.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Synph</dt>
+                    <dd>syntax phrase<p><synph>&lt;kwd>format&lt;/kwd>
+                                &lt;var>volumename&lt;/var></synph> are the keywords and variables
+                            used in a syntax.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>syntaxdiagram</dt>
+                    <dd>syntax diagram<p>Example:</p><p>
+                            <pre id="pre_qjv_fx5_y1c">&lt;syntaxdiagram> &lt;title>CopyFile&lt;/title> 
+&lt;groupseq>&lt;kwd>COPYF&lt;/kwd>&lt;/groupseq> 
+&lt;groupcomp>&lt;var>input-filename&lt;/var>&lt;kwd>*INFILE&lt;/kwd>&lt;/groupcomp> 
+&lt;groupseq>&lt;var>output-filename&lt;/var>&lt;kwd>*OUTFILE&lt;/kwd>&lt;/groupseq> 
+&lt;groupchoice> &lt;var>input-filename&lt;/var> &lt;kwd>*INFILE&lt;/kwd>&lt;/groupchoice> 
+&lt;groupchoice> &lt;var>output-filename&lt;/var> &lt;kwd>*OUTFILE&lt;/kwd>&lt;/groupchoice> 
+&lt;/syntaxdiagram></pre>
+                        </p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Groupseq</dt>
+                    <dd>group of syntactic units (used only for syntax diagrams)
+                            <p>Example:<pre id="pre_tyd_fv5_y1c"><b><b>&lt;groupseq></b></b><b>&lt;kwd></b>COPYF<b>&lt;/kwd></b><b><b>&lt;/groupseq></b></b></pre></p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Groupchoice</dt>
+                    <dd>choice of a group of syntactic units (used only for syntax
+                            diagrams)<p>Example:
+                            <pre id="pre_mwj_dw5_y1c">&lt;groupchoice>&lt;var>input-filename&lt;/var>&lt;kwd>*INFILE&lt;/kwd>&lt;/groupchoice></pre></p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Groupcomp</dt>
+                    <dd>group of composite syntactic units (used only for syntax
+                            diagrams)<p>Example:
+                            <pre id="pre_udt_fw5_y1c">&lt;groupcomp>&lt;var>input-filename&lt;/var>&lt;kwd>*INFILE&lt;/kwd>&lt;/groupcomp></pre></p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Fragment</dt>
+                    <dd>fragment of syntax (used only for syntax diagrams)<p>Example:
+                            <pre id="pre_hcq_lw5_y1c">&lt;fragment>
+  &lt;groupchoice>&lt;kwd>*OVERLAP&lt;/kwd>&lt;kwd>*Prompt&lt;/kwd>&lt;/groupchoice>
+ &lt;/fragment></pre></p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Fragref</dt>
+                    <dd>cross-reference to a fragment of syntax<p>Example:
+                            <pre id="pre_ucc_bx5_y1c">&lt;fragref href="#syntax/overlay">&lt;/fragref></pre></p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Synblk</dt>
+                    <dd>block of small pieces of syntax<p>Example:
+                            <pre id="pre_df3_kx5_y1c">&lt;synblk>
+&lt;groupseq>&lt;kwd>this&lt;/kwd>&lt;sep>-&lt;/sep>&lt;kwd>is&lt;/kwd>&lt;sep>-&lt;/sep>&lt;kwd>a&lt;/kwd>
+&lt;sep>-&lt;/sep>&lt;var>test&lt;/var>&lt;/groupseq>
+&lt;/synblk></pre></p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Synnote</dt>
+                    <dd>footnote within syntax (syntax note)<p>
+                            <pre id="pre_dvd_xx5_y1c">&lt;groupcomp>&lt;var>one&lt;/var>&lt;var>two&lt;/var>&lt;var>three&lt;/var>&lt;/groupcomp>
+&lt;synnote>My first syntax note.&lt;/synnote></pre>
+                        </p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Synnoteref</dt>
+                    <dd>cross-reference to a syntax note<p>
+                            <pre id="pre_fch_by5_y1c">&lt;synnoteref href="#topicid/mysyn"/></pre>
+                        </p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Kwd</dt>
+                    <dd>syntax keyword (used only for syntax diagrams)<p>In the following syntax
+                            <pre id="pre_amp_3y5_y1c">&lt;groupseq>&lt;kwd>COPYF&lt;/kwd>&lt;/groupseq></pre></p>the
+                        term COPYF is a keyword.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Var</dt>
+                    <dd>variable that a user must supply (used only for syntax diagrams)<p>In the
+                            following
+                            syntax<pre id="pre_mwf_4y5_y1c"> &lt;groupcomp>&lt;var>input-filename&lt;/var>&lt;kwd>*INFILE&lt;/kwd>&lt;/groupcomp></pre>
+                            the term input-filename is a variable.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Oper</dt>
+                    <dd>operator character (such as +, -, and =) within syntax<p>In the following
+                            syntax
+                            <pre id="pre_ih5_vy5_y1c">&lt;groupseq>&lt;kwd>1&lt;/kwd>&lt;oper>+&lt;/oper>&lt;var>two&lt;/var>
+&lt;delim>=&lt;/delim>&lt;kwd>something&lt;/kwd>
+  &lt;/groupseq></pre> the SUM (+) operator is used to add one and
+                            two.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Delim</dt>
+                    <dd>delimiter character (such as /, |, and ;) within syntax<p>In the following
+                            syntax
+                            <pre id="pre_b3q_bz5_y1c">&lt;groupseq>&lt;kwd>1&lt;/kwd>&lt;oper>+&lt;/oper>&lt;var>two&lt;/var>
+&lt;delim>=&lt;/delim>&lt;kwd>something&lt;/kwd>
+  &lt;/groupseq></pre> the EQUALS (=) operator is used as a
+                            delimiter.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Sep</dt>
+                    <dd>separator character within syntax<p>In the following syntax
+                            <pre id="pre_k1w_3z5_y1c">&lt;groupseq>&lt;kwd>1&lt;/kwd>&lt;oper>+&lt;/oper>&lt;sep>(&lt;/sep>&lt;var>two&lt;/var>&lt;sep>)&lt;/sep>
+&lt;delim>=&lt;/delim>&lt;kwd>something&lt;/kwd>&lt;/groupseq></pre> the
+                            opening bracket '(' and closing bracket ')' are used as the
+                            separators.</p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Repsep</dt>
+                    <dd>separator character for repeated syntax elements<p>In the following syntax
+                            <pre id="pre_h4g_qz5_y1c">&lt;groupchoice>
+  &lt;repsep>,&lt;/repsep>
+  &lt;kwd>This&lt;/kwd>
+  &lt;kwd>That&lt;/kwd>
+  &lt;kwd>The other&lt;/kwd>
+&lt;/groupchoice></pre> the COMMA (,) is used as a separator between
+                            repeaded selections.</p></dd>
+                </dlentry>
+            </dl>
+        </section>
+    </conbody>
+</concept>

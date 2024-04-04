@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="new_task_1">
+    <title>New Task 1</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step id="step_bsy_sk5_t1c">
+                <cmd>This is step 1.</cmd>
+            </step>
+            <step id="step_xr2_tk5_t1c">
+                <cmd>This is step 2.</cmd>
+            </step>
+            <step id="step_nlj_tk5_t1c">
+                <cmd>This is step 3.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

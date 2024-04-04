@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Week 2 Assignment</title>
+    <topicgroup collection-type="sequence" scope="local" processing-role="normal">
+        <topicmeta>
+            <navtitle>Test</navtitle>
+            <shortdesc>This is a test short description</shortdesc>
+        </topicmeta>
+        <topicref href="untitled2.dita"/>
+    </topicgroup>
+    <topichead navtitle="API">
+        <topicref href="building_bird_house.dita"/>
+        <topicref href="fix_problems_with_your_password.dita"/>
+        <topicref href="cd.dita"/>
+        <topicref href="dir.dita"/>
+    </topichead>
+    <topicref href="dir.dita"/>
+    <topicref href="related_link_test.dita"/>
+    <topicref href="pencil_types.dita"/>
+</map>

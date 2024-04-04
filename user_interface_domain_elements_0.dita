@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="user_interface_domain_elements_0">
+    <title>User interface domain elements</title>
+    <shortdesc>The elements in the user interface domain each have a specific semantic
+        purpose.</shortdesc>
+    <prolog>
+        <author type="creator">Shri</author>
+        <critdates>
+            <created date="2024-04-04"/>
+            <!--Shri-->
+            <revised modified="2024-04-04"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <section id="section_uqd_d5t_y1c">
+            <dl id="dl_uhx_3ht_v1c">
+                <dlentry>
+                    <dt>uicontrol</dt>
+                    <dd>user interface control<p>For example: Click <b>File</b> and select
+                                <b>New</b> to launch a <b>New Project</b> dialog. </p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_akd_c3t_v1c">
+                <dlentry>
+                    <dt>menucascade</dt>
+                    <dd>cascading a menu<p>Click <menucascade>
+                                <uicontrol>File</uicontrol>
+                                <uicontrol>New </uicontrol>
+                            </menucascade> to launch a <b>New Project</b> dialog. </p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_byf_q3t_v1c">
+                <dlentry>
+                    <dt>wintitle</dt>
+                    <dd>Window title<p>Click <menucascade>
+                                <uicontrol>File</uicontrol>
+                                <uicontrol>New </uicontrol>
+                            </menucascade> to launch a <wintitle>New Project</wintitle> dialog.
+                        </p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_dzn_v3t_v1c">
+                <dlentry>
+                    <dt>shortcut</dt>
+                    <dd>Set of keys to perform an action.<p>Click <menucascade>
+                                <uicontrol>File</uicontrol>
+                                <uicontrol>New </uicontrol>
+                            </menucascade> to launch a <wintitle>New Project</wintitle> dialog.
+                            Alternatively, click <uicontrol><shortcut>Ctrl+N</shortcut></uicontrol>
+                            keys.</p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_fll_3jt_v1c">
+                <dlentry>
+                    <dt>screen</dt>
+                    <dd>For character (text only) screen.<p>
+                            <screen id="screen_osc_pjt_v1c">File  Edit  Search  View  Options  Help
++--------------------------------- UNTITLED1 ----------------------------------+
+¦                                                                              ¦
+¦                                                                              ¦
+¦                                                                              ¦
+¦                                                                              ¦
+¦  Line:1    Col:1  F1=Help                                                    ¦
++------------------------------------------------------------------------------+</screen>
+                        </p></dd>
+                </dlentry>
+            </dl>
+        </section>
+    </conbody>
+</concept>

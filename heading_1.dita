@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="heading_1">
+    <title>Heading 1</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. </p>
+        <p>The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy
+            dog.</p>
+        <p>The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy
+                dog.<steps conref="building_bird_house.dita#building_bird_house/steps_wp2_k35_t1c"
+            /></p>
+        <fig id="fig_qfq_dh5_t1c">
+            <p>This is a first image.</p>
+            <image
+                href="../Users/Shri/OneDrive/Pictures/M2%20Advanced%20Share%20Market%20Course/Advanced%20Patterns%20-%20Price%202B.png"
+                id="image_u3v_kh5_t1c"/>
+        </fig>
+    </conbody>
+</concept>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction_to_logic_gates">
+    <title>Introduction to Logic Gates</title>
+    <shortdesc>Logic gates are electronic circuits. They are fundamental components of all digital
+        circuits and systems.</shortdesc>
+    <conbody>
+        <p>Logic gates use Boolean algebra (binary variables 0 and 1) to perform several logical
+            operations. They take two or more input values but produce only one output. The output
+            depends upon the combination of the input values and the logical operation performed by
+            that logic gate.</p>
+        <p>There are <b>seven</b> primary logic gates.These are classified as follows:</p>
+        <ol id="ol_c51_x25_r1c">
+            <li><b>Basic</b> Logic Gates:<ul id="ul_z4b_bf5_r1c">
+                    <li>AND Gate</li>
+                    <li>OR Gate</li>
+                    <li>NOT Gate</li>
+                </ul></li>
+            <li><b>Universal</b> Logic Gates:<ul id="ul_ojj_df5_r1c">
+                    <li>NAND Gate</li>
+                    <li>NOR Gate</li>
+                </ul></li>
+            <li><b>Derived</b> Logic Gates:<ul id="ul_znc_ff5_r1c">
+                    <li>XOR Gate</li>
+                    <li>XNOR Gate</li>
+                </ul></li>
+        </ol>
+        <note id="note_xrd_rh5_r1c">The most common components used in logic gates are <i>diodes,
+                transistors, resistors, and capacitors</i>.</note>
+    </conbody>
+</concept>

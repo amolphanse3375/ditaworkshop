@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Radio Shack TRS-80 Expansion Interface: Operator's Manual</title>
+    <topicmeta>
+        <author type="contributor">Shri</author>
+        <critdates>
+            <!--Shri-->
+            <revised modified="2024-04-02"/>
+        </critdates>
+    </topicmeta>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>keys</navtitle>
+        </topicmeta>
+        <keydef keys="company_name">
+            <topicmeta>
+                <keywords>
+                    <keyword>Radio Shack</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <keydef keys="computer_name">
+            <topicmeta>
+                <keywords>
+                    <keyword>TRS-80</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+        <keydef keys="peripheral_name">
+            <topicmeta>
+                <keywords>
+                    <keyword>Expansion Interface</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+    </topicgroup>
+    <topicref href="introduction.dita">
+        <topicref href="electrical_connections.dita"/>
+        <topicref href="parts_list.dita"/>
+    </topicref>
+    <topicref href="variables_dita.dita" toc="no" processing-role="resource-only"/>
+    <reltable>
+        <title>Operator Manual Relationship Table</title>
+        <relheader>
+            <relcolspec type="concept"/>
+            <relcolspec type="task"/>
+            <relcolspec type="reference"/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="introduction.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="electrical_connections.dita"/>
+            </relcell>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell>
+                <topicref href="electrical_connections.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="parts_list.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="introduction.dita"/>
+            </relcell>
+            <relcell/>
+            <relcell>
+                <topicref href="parts_list.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>
+</map>
